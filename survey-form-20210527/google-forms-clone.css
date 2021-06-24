@@ -1,0 +1,44 @@
+.google{
+	border-left: 6px solid red;
+  background-color: powderblue;
+  border-radius: 15px;
+  margin: 50px 50px 50px 50px;
+  padding: 25px 50px 75px 100px;
+text-transform: capitalize;
+text-indent: 50px;
+text-shadow: 2px 2px 5px red;
+display: flex;
+}
+
+.forms{
+	border-left: 6px solid red;
+  background-color: lightgrey;
+  margin: 100px 100px 100px 100px;
+  padding: 100px 100px 100px 100px;
+  display:flex;
+  flex-direction: column-reverse;
+}
+
+/*a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}*/
+
+
+
+
+
+
+
+
+
+
+

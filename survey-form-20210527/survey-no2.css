@@ -1,0 +1,63 @@
+body {
+  background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDw8PDw8NDw8PDw8PDw8PDw8PDw8PFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NFQ8PFS0ZFRkrLS0rLSs3Ly0tKy0tKzctLSstLS0uLS0rLSstKy0tLSsrLS03Ky0tLSstKzctLSsrN//AABEIAKgBLAMBIgACEQEDEQH/xAAaAAEBAQEBAQEAAAAAAAAAAAABAAIDBAUH/8QAKxABAQEAAQEECAcAAAAAAAAAAAERAgMGIZPREhYxQUNTgbEEBRMjRFSR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAbEQEBAQEBAQEBAAAAAAAAAAAAARECEiETA//aAAwDAQACEQMRAD8A/LiGo6buxNQRoNIijCWYeIjUK0rSkkw+YjAVt5CQSVhhCCo0tCC5WgkD1CqgFUkAkVIBCCRlQKRQis1lqihnWKxyjpWbEs+o5UVrlGaTGshqshFegwNRerlJBLWmkwHQqEsmDFSNII8ayEwELhIhCiWSFQpIjKGoHqWoAtQSNNqCATUEAkipGVFZKCGazWqKWIrFjnXWsWEy6jnRjVjJMa7xqMRrS0c1osnQ0lJZJtJWjGVqtaStamdOjVStFk6NVK0dY0yjVytpkhWtIIHp1aEBpCAIhAEgrQE2oLRo1NpVCNOoEAqKKRQmisVtmkzrnWa6WMUmNala1ylalQiV0lWsSnQuN6dY1aFSumqVjVp6r03p1jTo1U6b1axp0audOmnXPTKetJ06HWJTprlb1Mk1aUED0haNBadAFoK0s2q1m1KLTqZ1aEaTrOrVFrQqQFqZKCLQKRQm1jkzjdjNg1l1XGVqVzp1kxjpplYla02sa06wQprVrOrSJvTrmdIa3p1jTKNVOm5Wtc5Tp6udOmta5ytSq1pOm9LGnT1pOmwNWq1Xopm0aRejotFotJN6Vo0UUkXo6NFo0I1vUzq0aXpuUsyk9HohHBqbQsICbQxXRgmfVeVBFGbcLMaDSNJmEL1FkgidZ1JTrWnWSQ1rWoxDoVK3KdYlJ6udOkp1jSernTaY06eq9nRo1DR6WjQBqfStFqoLU3pLQhqLSWTo0vTUaYjUMvTWrQjG06tQGJq0NIJrwqM6STrcIiDSNIIKKCBFBJS0YIiDRZMAaLLUB6YYCFeikjP0hSAPSoqAL0KK0CK9BJBOpIwwY1IOLciovmDDhkKorBixpHibBgaZJnXzWozGko5aLJCyQgrVUqAVJGpJNFkwiaLMagBhgIMkEDSggepJAtQSA1AgBAoEjFDFQ2pGoI1FRrDiKWoFIJoZarGky6fPlLHFtDOUoEL0oIHrWskUCkswpRphghhDWo1GY1ANJCB60mSBpQQMoIBIIzISGEiEeAxvixGoZx0jUc5WpVRcraBUrUFotCbRyrFp5Vm0Mer9fPjbnrXGs2fNaIIaIhA9KCAKQSmtGMtQibhjEalAaLJBlDUAUEZwoI1FBHhpBAjq0KANRqMoKblalYlMqg6SnXOU6o9b1m0axy5BNqtZtFrOlWNrxmVJLONmJE1SKM0kipqKwpJAypEhqNRIGUUAkkDSSUcSSNSSRmgUACkBCtKBrX3fyTs11PxXSvVnU48OPp3hJ6HLnbZm3u9k7yk9XIjvqyfHvnYjqf2OPg8/NepPU+fPC5eaSPfTH9Oh6l9Tu/enfnwefv8Aqzy7E9T2/rzwOe/5oQ/TpN/p0uXYfqfP4+74PPzM7B9S/wAjp/XpcpfuEPfSfVf/2Q==');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+
+
+}
+
+label
+{
+color: orange;
+font-size: 20px;
+}
+
+p
+{
+color: orange;
+font-size: 20px;
+}
+
+input
+{
+border-radius: 15px;
+height: 20px;
+width: 200px;
+
+}
+
+h1
+{
+color: orange;
+}
+
+#heading
+{
+margin-right: auto;
+margin-left: auto;
+margin-top:10px ;
+text-align: center;
+}
+
+.user-form{
+
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

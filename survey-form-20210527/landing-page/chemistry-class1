@@ -1,0 +1,46 @@
+n=  1   2   3  4 
+      K L M N  shell
+as the n value increases the orbital increaces
+if the orbital is in k shell the energy is low if in the n the energy is high
+
+sub shells   are represented by s p d t
+if l = 0 then s
+
+n=1 k then l=0
+n=2 l then l=0,1
+n=3 m then l=0,1,2
+n=4 n then l=0,1,2,3
+
+gives complete detail about the 
+
+
+
+
+when n value increases the orbital increases
+
+
+4 set of quantum number
+
+(1) principal quantum number(n)
+(2) azimuthal quantum number(l)
+(3) magnetic quantum number(ml)
+(4) spin quantum number(ms)  
+
+(1) used to find out the size of the orbital and the energy level of the electron.
+(2)using this we can predict the number of sub shell present in the shell
+sub shells   are represented by s p d t
+if l = 0 then s
+
+n=1 k then l=0
+n=2 l then l=0,1
+n=3 m then l=0,1,2
+n=4 n then l=0,1,2,3
+angular momentum formula
+root of l(l+1)  h/2 pi
+h=6.626
+
+
+(3)it used to find no of orbital and used to arangement of the orbital
+ml=-l ....... +l
+
+(4) we can identify the direction of the eletrron spin

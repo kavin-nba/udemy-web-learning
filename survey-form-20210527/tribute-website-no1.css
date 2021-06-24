@@ -1,0 +1,28 @@
+body {
+  margin-top: 60px;
+}
+
+
+img
+{
+float: center;
+width: 800px;
+height:400px;
+}
+
+
+body {
+  background-color: lightblue;
+}
+
+h1
+{
+text-align: center;
+color: red;
+}
+
+h2
+{
+text-align: center;
+color: orange;
+}
