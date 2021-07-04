@@ -1,0 +1,117 @@
+.header{
+	font-family: 'Jomhuria', cursive;
+	 text-decoration-style: none;
+
+	font-size: 25px;
+	width: 100%;
+}
+.header ul li{
+	list-style: none;
+	display:inline-block;
+}
+
+
+
+
+body{
+	background-image: url(https://wallpaperaccess.com/full/486595.jpg);
+  	background-repeat: no-repeat;
+  	background-size: 1280px 658px; 
+}
+
+
+
+.test{
+	text-decoration: none;
+	color: #525966;
+	margin-top: 0;
+	margin-left: 50px; 
+	margin-right: 10px;
+}
+.margin-left{
+	float: right;
+	display: inline-block;
+	text-align:right;
+}
+
+.nav-end{
+	text-decoration: none;
+	color: #525966;
+	margin-left: 30px;
+		
+}
+.nav-main{
+	margin-left: 100px;
+}
+
+#main-content{
+	align-items: center;
+	padding-left: 40px;
+}
+
+.main-heading{
+	color:#393C41;
+	font-family: 'Poppins', sans-serif;
+	font-size: 60px;
+	margin-bottom: 0;
+}
+
+p{
+	color: #393C41;
+	display: flex;
+	padding-left: 440px;
+	margin-top: 0;
+	font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button-1{
+
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+	background-color: #4a4040;
+	border-radius: 30px;
+	opacity: 0.9;
+}
+
+.button2 {
+	background-color: white;
+	border-radius:30px;
+	opacity: 0.9;
+}
+
+#button{
+	margin-top:270px;	 
+	margin-left: 440px; 
+
+}
+
+.logo{
+	float: left;
+	margin-right: 0;
+}
+
+
+

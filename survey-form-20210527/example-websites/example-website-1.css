@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+}
+
+.background-img {
+    background-image: url('https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2hvZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+
+}
+
+#nav-bar > span {
+    max-width: 30vw;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+#nav-bar > span > a {
+    display: block;
+    color: #393C41;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.nav-left {
+    float: left;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-right: 0;
+
+}
+
+#center-logo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    margin: 0;
+}
+
+li a {
+    display: block;
+    color: #393C41;
+    text-align: center;
+    padding: 14px 16px;
+
+}
+
+a:hover:not(.nav-bg) {
+    background-color: orange;
+}
+
+.nav-bg {
+    background-color: #393C41;
+}
+
+.home {
+    margin-left: 0;
+
+}
+
+#center-logo {
+    align-content: center;
+}
+
+.nav-right {
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-right: 0;
+}
+
+/*end nav bar*/
+/*main content*/
+#main-content {
+}
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    font-size: 50px;
+    margin-top: 200px;
+    margin-left: 250px;
+    letter-spacing: 5px;
+}
+
+
+/*end main content*/
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+}
+
+.button1:hover {
+    background-color: #393f47;
+    color: white;
+}
+
+#button-align {
+    margin-left: 440px;
+    margin-top: 150px;
+}
+
+/*end button*/

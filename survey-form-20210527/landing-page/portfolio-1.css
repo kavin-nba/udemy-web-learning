@@ -1,0 +1,145 @@
+.font-size
+{
+font-size: 100px;
+color: #2d3b30;
+font-family: 'Dela Gothic One', cursive;
+}
+
+h1{
+	text-align: center;
+	text-shadow: 5px 5px #52fa7c;
+    padding-top: 130px;
+    padding-left: 10px;
+    padding-right: 10px;
+    letter-spacing: 5px;
+}
+
+
+/*for spliting screen*/
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+
+.left {
+  left: 0;
+
+ 
+}
+
+.background-left{
+	background-color: #52fa7c;
+}
+
+
+.right {
+  right: 0;
+ 
+}
+
+h2{
+	font-family: 'Benne', serif;
+	font-size:70px;
+	text-align: center;
+	letter-spacing: 3px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+
+}
+
+p{
+	font-family: 'Oswald', sans-serif;
+	font-size:20px;
+	padding-top: 30px;
+	padding-left: 40px;
+	padding-right:40px;
+	font-weight: bolder;
+}
+/*for icons*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 25px ;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+  margin: 4px 2px;
+  padding-left: 30px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.button1 {
+  background-color: white; 
+  color: #52fa7c; 
+  border: 2px solid #52fa7c;
+}
+
+.button1:hover {
+  background-color: #2d3b30;
+  color: white;
+}
+
+.signup{
+  background-color:  rgba(0,0,0,0.2);
+  width: 300px;
+  padding: 25px 25px 10px 25px;
+  float: right;
+  border-radius:40px;
+  height: 1040px;
+}
+
+
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding:10px;
+  margin: 5px 5px 15px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;  
+  border-radius: 20px;
+  float:center;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.super{
+  font-family: 'Roboto Mono', monospace;
+  font-size:20px;
+  color: #9933FF;
+}
+
+

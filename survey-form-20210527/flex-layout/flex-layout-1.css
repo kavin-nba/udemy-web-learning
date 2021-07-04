@@ -1,0 +1,61 @@
+html{
+	margin: 0;
+}
+
+body{
+	margin: 0;
+}
+
+#header{
+	height: 20vh;
+	width: 100vw;
+	min-height: 10px; 
+	min-width: ; 
+	margin: 0;
+	background-color: #3cc720;
+}
+
+
+#article{
+
+	margin: 0;
+	height: 65vh;
+	width: 40vw;
+	background-color: #cefa6e; 
+	display: flex;
+ 	flex: 1;
+ 	order:1;
+ 	float: left;
+}
+
+#aside{
+	height: 65vh;
+	width: 30vw;
+	display: flex;
+	flex: 0 0 20vw;
+	background-color: #b3e3cb;
+  	order: 2;
+  	float: left;
+}
+
+#nav{
+	height: 65vh;
+	width: 28vw;
+	background-color: #60eba5;
+	display: flex;
+	flex: 0 0 20vw;
+	order: 3;
+	float: left;
+	margin:0;
+}
+
+
+
+#footer{
+	margin-top:410px;
+	height: 14vh;
+	width: 100vw;
+	min-height: 40px;
+	min-width: 1270px;
+	background-color: #5bba23;
+}

@@ -1,0 +1,26 @@
+.align-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.body-class{
+    height: 50vh;
+    width: 30vw;
+    background-color: #FFE977;
+    border-radius: 10px;
+
+}
+
+body{
+    margin: 0;
+}
+
+.summa{
+    background-color: #5bba23;
+    height: 40px;
+    width: 1270px;
+}
+

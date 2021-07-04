@@ -1,0 +1,84 @@
+h1{
+	text-align: center;
+	text-shadow:2px 2px 4px grey;
+	padding-top: 10px;
+	}
+
+h2{
+  text-align: center;
+  text-shadow:2px 2px 4px grey;
+  padding-top: 10px;
+  }
+
+
+body{
+
+   background-color: lightgreen;
+   
+
+
+
+}
+.navbar{
+	
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; 
+  top: 0; 
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ .navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+
+
+.photo-row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px 4px;
+  justify-content: center;
+}
+
+.photo-column {
+  flex: 15%;
+  max-width: 25%;
+  padding: 0 5px;
+}
+
+.photo-column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+
+@media screen and (max-width: 600px) {
+  .photo-column {
+    flex: 100%;
+    max-width: 100%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
