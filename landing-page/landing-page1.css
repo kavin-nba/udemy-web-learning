@@ -1,0 +1,76 @@
+.header{
+         width: 100%;
+         background-color: rgba(0,0,0,.2);
+         text-decoration-style: none;
+}
+
+.header ul{
+	text-align: center;
+}
+
+.header ul li{
+	list-style: none;
+	display: inline-block;
+
+}
+
+.header ul li a{
+	text-decoration: none;
+	display: block;
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 20px;
+	font-family: monospace;
+	letter-spacing: 5px;
+	font-weight: 500;
+	padding: 25px;
+	transition-duration: all ease 0.5s;
+}
+
+.header ul li a:hover{
+	background-color: #211b4385 
+}
+
+h1{
+	font-size: 80px
+	font-weight:600;
+	font-family: 'Suez One', serif;
+	letter-spacing: 7px;
+	padding-left:10px; 
+	padding-top:10px;
+	color: #FFE977;
+}
+
+h2{
+	font-family: 'Inconsolata', monospace;
+	color: #30FF98;
+	padding: 25px 50px 0px 10px;
+}
+
+
+.signup{
+	background-color: lightgrey;
+	width: 300px;
+	padding: 25px 25px 10px 25px;
+	float: right;
+}
+
+
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding:10px;
+  margin: 5px 5px 15px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;	
+  border-radius: 20px;
+  float:center;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
