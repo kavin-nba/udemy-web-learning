@@ -1,0 +1,121 @@
+.nav-bar{
+    position: fixed;
+    width: 100%;
+}
+
+#parallax{
+    background-image: url("https://wallpapercave.com/wp/wp3693599.jpg");
+    background-repeat: no-repeat;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+/*html:focus-within{*/
+/*    scroll-behavior: smooth;*/
+/*}*/
+
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+
+#wick-style{
+    background-color: white;
+    color: orange;
+    font-size: 20px;
+    height: 18vh;
+    width: 90vw;
+    align-items: center;
+
+}
+
+span.wick-head {
+    background-color: #FFE600;
+    color: black;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+
+}
+
+#parallax-1{
+    background-image: url("https://wallpapercave.com/wp/wp2601303.jpg");
+    background-repeat: no-repeat;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#naruto-style{
+    background-color: white;
+    color: orange;
+    font-size: 20px;
+    height: 22vh;
+    width: 90vw;
+    align-items: center;
+
+}
+
+#parallax-2{
+    background-image: url("https://wallpaperaccess.com/full/3395917.jpg");
+    background-repeat: no-repeat;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#jam-style{
+    background-color: white;
+    color: orange;
+    font-size: 20px;
+    height: 25vh;
+    width: 90vw;
+    align-items: center;
+
+}
+
+#parallax-3{
+    background-image: url("https://wallpaperaccess.com/full/424293.jpg");
+    background-repeat: no-repeat;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#narnia-style{
+    background-color: white;
+    color: orange;
+    font-size: 20px;
+    height: 23vh;
+    width: 90vw;
+    align-items: center;
+
+}
+
+#parallax-4{
+    background-image: url("https://i.pinimg.com/originals/30/87/8d/30878d826de22694fda83e7d34a7ed8b.jpg");
+    background-repeat: no-repeat;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#hobbit-style{
+    background-color: white;
+    color: orange;
+    font-size: 20px;
+    height: 18vh;
+    width: 90vw;
+    align-items: center;
+
+}

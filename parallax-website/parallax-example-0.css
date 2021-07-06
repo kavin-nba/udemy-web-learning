@@ -7,6 +7,7 @@
     background-size: cover;
 }
 
+
 body{
     margin-top: 0;
     margin-left: 0;
@@ -33,7 +34,7 @@ span#wick-head {
 
 }
 
-.parallax-1{
+.naruto-background{
     background-image: url("https://wallpapercave.com/wp/wp2601303.jpg");
     background-repeat: no-repeat;
     min-height: 650px;
@@ -51,4 +52,23 @@ span#wick-head {
     width: 90vw;
     align-items: center;
 
+}
+
+.war-background{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1617817518136-7XT9Q9LUA8CJ9MPAY323/chris-pratts-sci-fi-action-film-the-tomorrow-war-gets-a-summer-release-on-amazon.jpg");
+    background-repeat: no-repeat;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#war-style {
+    background-color: white;
+    color: #525966;
+    font-size: 20px;
+    height: 18vh;
+    width: 90vw;
+    align-items: center;
 }
