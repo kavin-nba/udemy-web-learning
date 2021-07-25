@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+
+
+#navbar {
+  height: 100%; 
+  width: 300px; 
+  position: fixed;
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  overflow-x:hidden; 
+  background-color: lightgrey;
+}
+
+
+#navbar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: red;
+  display: block;
+}
+
+
+#navbar a:hover {
+  color: #f1f1f1;
+}
+.side-header{
+  font-size: 30px;
+  font-family: font-family: 'Zen Tokyo Zoo', cursive;
+  margin-left: 20px;
+}
+
+#main-doc {
+  margin-left: 300px;
+  padding: 0 10px;
+}
+.maincontent-head{
+  font-size: 35px;
+  font-family: font-family: 'Zen Tokyo Zoo', cursive;;
+}
+@media(min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+}
