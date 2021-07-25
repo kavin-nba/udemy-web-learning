@@ -1,0 +1,18 @@
+h1{
+	margin:auto;
+	width: 20%;
+}
+#description{
+	font-family: sans-serif;
+	font-weight: 500;
+}
+
+#survey-form{
+	margin:auto;
+	width: 20%;
+}
+#email,#number,#name{
+	border-radius: 15px;
+	height: 20px;
+	width: 200px;
+}         

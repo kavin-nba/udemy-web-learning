@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="survey-fcc.css">
+  <title></title>
+</head>
+<body>
+  
+<h1 id="title">A survey form</h1>
+<p id="description">this is a survey form  to save the info about the user.</p>
+
+<form id="survey-form">
+    <label id="name-label" for="name">Last name:</label>
+    <input type="text" id="name" name="name" placeholder="name" required><br><br>
+    <label id="password-label" for="lname">Your password:</label>
+    <input type="password" id="password" name="lname" placeholder="password"><br><br>
+    <label id="number-label">Enter your number:</label>
+    <input id="number" id="number" type="number" min="00" max="1000000" placeholder="number"><br><br>
+    <label id="email-label">Enter your Email address:</label>
+    <input id="email" type="email" pattern="[^ @]*@[^ @]*" placeholder="Enter your email" required><br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+<label for="html">HTML</label><br>
+<input type="radio" id="css" name="fav_language" value="CSS">
+<label for="css">CSS</label><br>
+<input type="radio" id="javascript" name="fav_language" value="JavaScript">
+<label for="javascript">JavaScript</label>
+<br>
+<br>
+<br>
+<textarea id="textarea" name="textarea" rows="4" cols="50">
+  
+
+</textarea>
+
+<br>
+<br>
+<br>
+<label for="cars">Choose a car:</label>
+<select id="dropdown" name="cars" size="4" multiple>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="fiat">Fiat</option>
+  <option value="audi">Audi</option>
+  <option value="audi">Audi</option>
+  <option value="audi">Audi</option>
+  <option value="audi">Audi</option>
+  <option value="audi">Audi</option>
+
+  <br>
+  <br>
+  <br>
+  <br>
+    <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+    <label for="vehicle1"> I have a bike</label><br>
+    <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+    <label for="vehicle2"> I have a car</label><br>
+    <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+    <label for="vehicle3"> I have a boat</label><br>  
+    </select>
+<br>
+<input id="submit" type="submit" value="Submit">
+</form>
+
+
+
+
+
+</body>
+</html>
