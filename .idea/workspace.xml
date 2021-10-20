@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b33a986-e925-44e2-bf32-ccca7fe95676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/custom-buttons/custom-button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom-buttons/hover-glow-button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom-buttons/hover-glow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom-buttons/water-button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text-animations/hover-card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text-animations/hover-card.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text-animations/hover-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/text-animations/hover-card.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +56,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -85,7 +82,9 @@
       <workItem from="1634124090518" duration="103000" />
       <workItem from="1634373727234" duration="548000" />
       <workItem from="1634374366538" duration="1351000" />
-      <workItem from="1634631664082" duration="5322000" />
+      <workItem from="1634631664082" duration="5924000" />
+      <workItem from="1634638073511" duration="947000" />
+      <workItem from="1634725598577" duration="1064000" />
     </task>
     <servers />
   </component>
@@ -103,5 +102,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
