@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    min-height: 100vh;
+    padding: 80px;
+    width: 100%;
+    background: #001923;
+}
+section::before{
+    content: '';
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(#ffeb3b,#e91e63);
+    border-radius: 50%;
+    transform: translate(-420px,-100px);
+}
+section::after {
+    content: '';
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    background: linear-gradient(#2196f3, #83d8ff);
+    border-radius: 50%;
+    transform: translate(400px,180px);
+}
+.container{
+    position: relative;
+    z-index: 1000;
+    width: 100%;
+    max-width: 1000px;
+    padding: 50px;
+    margin-top: 50px;
+    background: rgba(255,255,255,0.1);
+    box-shadow: 0 25px 45px rgba(0,0,0,0.1);
+    border: 1px solid rgba(255,255,255,0.25);
+    border-right: 1px solid rgba(255,255,255,0.1);
+    border-left: 1px solid rgba(255,255,255,0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    backdrop-filter: blur(25px);
+}
+.container::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0.05);
+    pointer-events: none;
+    transform: skewX(-25deg);
+}
+.container h2{
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+.container .row1{
+    position: relative;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+}
+.container .row1 .column{
+    position: relative;
+    width: 100%;
+    padding:0 10px;
+    margin: 30px 0 20px;
+}
+.container .row1 .column .inputbox{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    color: #ffffff;
+
+}
+.container .row1 .column .inputbox input,
+.container .row1 .column .inputbox textarea{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    box-shadow: none;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    padding: 0 10px;
+    z-index: 1;
+    color: #000000;
+}
+.container .row1 .column .inputbox .text{
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 40px;
+    font-size: 18px;
+    padding: 0 10px;
+    display: block;
+    transition: 0.5s;
+    pointer-events: none;
+
+}
+.container .row1 .column .inputbox input:focus + .text,
+.container .row1 .column .inputbox input:valid + .text {
+    top: -35px;
+    left: -10px;
+}
+.container .row1 .column .inputbox .line{
+    position: absolute;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: #ffffff;
+    transition: 0.5s;
+    border-radius: 2px;
+    pointer-events: none;
+}
+.container .row1 .column .inputbox input:focus ~ .line,
+.container .row1 .column .inputbox textarea:valid ~ .line{
+    height: 100%;
+
+}

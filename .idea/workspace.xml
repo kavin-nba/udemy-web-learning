@@ -20,8 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b33a986-e925-44e2-bf32-ccca7fe95676" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav-site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/about1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/home1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/home2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/navbar-3d-site2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/project1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/3d-nav/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/nav-3d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/nav-3d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/navbar-designs/navbar-3d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/survey-form-20210527/glassmorphism-contact-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/survey-form-20210527/glassmorphism-form.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text-animations/hover-card.html" beforeDir="false" afterPath="$PROJECT_DIR$/text-animations/hover-card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text-animations/hover-card.css" beforeDir="false" afterPath="$PROJECT_DIR$/text-animations/hover-card.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +102,32 @@
       <workItem from="1634374366538" duration="1351000" />
       <workItem from="1634631664082" duration="5924000" />
       <workItem from="1634638073511" duration="947000" />
-      <workItem from="1634725598577" duration="1064000" />
+      <workItem from="1634725598577" duration="1574000" />
+      <workItem from="1634734941825" duration="7610000" />
+      <workItem from="1634781808889" duration="1282000" />
+      <workItem from="1634788022640" duration="832000" />
+      <workItem from="1634795527097" duration="598000" />
+      <workItem from="1634805561351" duration="606000" />
+      <workItem from="1634912193341" duration="2146000" />
+      <workItem from="1634955111548" duration="2197000" />
+      <workItem from="1634961081448" duration="1634000" />
+      <workItem from="1634998492353" duration="1162000" />
+      <workItem from="1635069507598" duration="595000" />
+      <workItem from="1635091553283" duration="843000" />
+      <workItem from="1635120467097" duration="1925000" />
+      <workItem from="1635164011069" duration="666000" />
+      <workItem from="1635245523466" duration="598000" />
+      <workItem from="1635335349805" duration="389000" />
+      <workItem from="1635495981933" duration="22000" />
+      <workItem from="1635653744239" duration="948000" />
+      <workItem from="1635661687972" duration="1653000" />
+      <workItem from="1635769546882" duration="1227000" />
+      <workItem from="1635837278100" duration="968000" />
+      <workItem from="1639021468122" duration="49000" />
+      <workItem from="1639882572544" duration="29000" />
+      <workItem from="1642482967232" duration="937000" />
+      <workItem from="1642485033621" duration="22000" />
+      <workItem from="1642499083854" duration="2166000" />
     </task>
     <servers />
   </component>

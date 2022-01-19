@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+/*    font-family: 'Poppins', sans-serif;
+      font-family: 'Oswald', sans-serif;*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.container{
+    min-height: 100vh;
+    width: 100%;
+    background: #485468;
+    background-image: linear-gradient(135deg,#485468 0%,#28313b 74%);
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    height: 3rem;
+}
+.menu{
+    max-width: 72rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+}
+.logo{
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 4rem;
+}
+.logo span{
+    font-weight: 300;
+}
+.hamburger-menu{
+    height: 4rem;
+    width: 3rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.bar{
+    width: 1.9rem;
+    height: 1.5rem;
+    border-radius: 2px;
+    background-color: #edf0f1;
+    transition: 0.5s;
+    position: relative;
+}
+.bar:before,
+.bar:after{
+    content:'';
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    background-color: #edf0f1;
+    transition: 0.5s;
+
+}
+.bar:before{
+    transform: translateY(-9px);
+}
+.bar:after {
+    transform: translateY(9px);
+}
